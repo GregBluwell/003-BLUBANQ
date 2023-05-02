@@ -28,7 +28,7 @@ const Hero = () => {
         </div>
 
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Nos experts utilisent une méthodologie d'identification de carte adaptée à vos besoins.
+        Nos experts utilisent une méthodologie d'identification de carte répondant à vos besoins.
         Nous examinons les taux d'intérêt annuels, les frais annuels.
         </p>
       </div>
