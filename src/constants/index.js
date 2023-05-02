@@ -48,8 +48,8 @@ export const feedback = [
     id: "feedback-1",
     content:
       "L'argent n'est qu'un véhicule. Il vous emmènera où vous le souhaitez, mais il ne vous remplacera pas en tant que conducteur.",
-    name: "Hervé Jeanson",
-    title: "Fondateur & PDG",
+    name: "Aurélie Jeanson",
+    title: "Fondatrice & PDG",
     img: people01,
   },
   {
@@ -64,7 +64,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "Habituellement, ce sont les gens du monde du business, de la finance et du commerce international qui sont vraiment riches",
-    name: "Jean Pallois",
+    name: "Bertrand Pallois",
     title: "PDG",
     img: people03,
   },

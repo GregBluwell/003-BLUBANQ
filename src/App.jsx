@@ -22,7 +22,7 @@ const App = () => (
         <Billing />
         <CardDeal />
         <Testimonials />
-        <Clients />
+        <Clients />_è
         <CTA />
         <Footer />
       </div>

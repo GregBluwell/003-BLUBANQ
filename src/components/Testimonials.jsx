@@ -13,7 +13,7 @@ const Testimonials = () => (
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
 
-          la seule et unique carte nécessaire pour accepter des paiements internationaux et développer votre business n'importe où dans le monde.
+          La seule et unique carte nécessaire pour accepter des paiements internationaux et développer votre business n'importe où dans le monde.
         </p>
       </div>
     </div>
