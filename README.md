@@ -1,7 +1,9 @@
-# blubanq
-## Modern UI/UX website
-## React.js & Tailwind CSS
+# blubanq ~
+## Modern Business Website
 
-![blubanq](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+React.js & Tailwind CSS
 
+![HooBank](https://i.ibb.co/7Nmdw8m/screenshot-1.png)
+
+### Showcase your dev skills with practical experience and land the coding career of your dreams
 
