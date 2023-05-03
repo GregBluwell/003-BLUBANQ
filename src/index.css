@@ -145,6 +145,32 @@
 
   &:hover {
     color: white;
-    cursor: pointer;
+  }
+}
+
+h2 {
+  @media screen and (min-width: 300px) {
+    line-height: 1.2 !important;
+  }
+}
+
+
+@media screen and (min-width: 620px) {
+
+  h1 {
+      line-height: 4.25rem !important;
+
+  }
+
+}
+
+@media screen and (max-width: 765px) {
+
+  h1 {
+      line-height: 4rem !important;
+  }
+  .slogan-container {
+    padding-top: 2rem !important;
+    padding-bottom: 1rem;
   }
 }
