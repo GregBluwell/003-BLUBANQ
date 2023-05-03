@@ -1,9 +1,15 @@
 # blubanq ~
-## Modern Business Website
+## Modern UI/UX Business Showcase Website
 
-React.js & Tailwind CSS
+> **React JS, Tailwind CSS**
 
-![HooBank](https://i.ibb.co/7Nmdw8m/screenshot-1.png)
+![react](https://i.ibb.co/Rvzz0xZ/react.png)
+![react](https://i.ibb.co/0t3G8B0/tailwind.png)
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
+![blubanq](https://i.ibb.co/7Nmdw8m/screenshot-1.png)
+
+
+🌐 LIVE: [**blubanq**](https://www.gregbluwell.dev/)
+
+Portfolio: [www.gregbluwell.dev](https://gregbluwell.dev) | Email: greg.bluwell@proton.me | GitHub: [@gregbluwell](https://github.com/GregBluwell)
 
