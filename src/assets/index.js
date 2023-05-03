@@ -24,6 +24,7 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import blubanq from "./blubanq.png";
 
+
 export {
   airbnb,
   bill,
@@ -43,10 +44,10 @@ export {
   apple,
   arrowUp,
   discount,
-  facebook,
   instagram,
   linkedin,
   twitter,
+  facebook,
   people01,
   people02,
   people03,
