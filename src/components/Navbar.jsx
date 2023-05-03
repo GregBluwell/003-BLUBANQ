@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-      <img src={blubanq} alt="blubanq" className="w-[200px] h-[52px] cursor-pointer" />
+      <img src={blubanq} alt="blubanq" className="w-[204px] h-[48px] cursor-pointer" />
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1 ">
         {navLinks.map((nav, index) => (
