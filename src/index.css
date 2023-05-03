@@ -140,3 +140,11 @@
 
 /*--------------*/
 
+#credit-GB {
+  color: #33bbcf;
+
+  &:hover {
+    color: white;
+    cursor: pointer;
+  }
+}
