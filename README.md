@@ -1,5 +1,5 @@
 # blubanq ~
-## Modern UI/UX Business Showcase Website
+## Modern UI/UX Business Showcase Landing Page
 
 > **React JS, Tailwind CSS**
 
