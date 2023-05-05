@@ -3,7 +3,7 @@
 
 > **React JS, Tailwind CSS**
 
-![react](https://i.ibb.co/Rvzz0xZ/react.png)
+![react](https://i.ibb.co/Rvzz0xZ/react.png) &nbsp;
 ![react](https://i.ibb.co/0t3G8B0/tailwind.png)
 
 ![blubanq](https://i.ibb.co/7Nmdw8m/screenshot-1.png)
