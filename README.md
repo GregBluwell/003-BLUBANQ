@@ -9,7 +9,7 @@
 ![blubanq](https://i.ibb.co/7Nmdw8m/screenshot-1.png)
 
 
-🌐 See it Live: [**blubanq**](https://www.gregbluwell.dev/)
+🌐 Live: [**blubanq**](https://www.gregbluwell.dev/)
 
 Portfolio: [www.gregbluwell.dev](https://gregbluwell.dev) | Email: greg.bluwell@proton.me | GitHub: [@gregbluwell](https://github.com/GregBluwell)
 
